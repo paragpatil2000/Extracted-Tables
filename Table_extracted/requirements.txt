@@ -1,0 +1,5 @@
+numpy==1.26.0
+scipy==1.10.1
+spacy==3.8.2
+spacy-layout
+docling
